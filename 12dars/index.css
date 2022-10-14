@@ -1,0 +1,25 @@
+h3{
+    color: rgba(95, 95, 226, 0.587);
+}
+h1{
+    color:white;
+    border:0;
+}
+.body1{
+    background-color: black;
+    height: 1000px;
+    width: 100vw;
+}
+p{
+    color: aliceblue;
+}
+.btn{
+    padding: 10px;
+    background-color: #3A68B8;
+    margin-right: 10px;
+    border-radius: 2px;
+    color: aliceblue;
+}
+.btn:hover{
+    background-color: #fff;
+}
